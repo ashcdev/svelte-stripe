@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.23
+
+- Added support for `options` to `<PaymentElement/>`. See: https://stripe.com/docs/js/elements_object/create_payment_element#payment_element_create-options
+
 ## 0.0.22
 
 - Added `font` option to `<Elements/>`
